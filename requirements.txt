@@ -1,5 +1,6 @@
 # ── الأساسيات ──
 telethon
+gunicorn
 yt-dlp
 aiohttp
 pytz
